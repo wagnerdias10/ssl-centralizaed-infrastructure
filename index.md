@@ -1,11 +1,16 @@
 ---
+# 🔒 Centralized SSL Infrastructure - Complete Implementation Guide
+**© 2025 Wagner | Original Project: [SSL Centralized Infrastructure](https://github.com/wagnerdias10/ssl-centralizaed-infrastructure)**
 
-# 📚 Guide: Centralized SSL Infrastructure with NGINX Reverse Proxy
+---
 
-**Version:** 1.0   
-**Date:** November 2025  
-**Status:** ✅ 100% Tested and Functional  
-**Author:** Wagner Antonio Dias
+> **📋 Document Information**  
+> **Author:** Wagner Dias
+> **Project:** SSL Centralized Infrastructure  
+> **Repository:** https://github.com/wagnerdias10/ssl-centralizaed-infrastructure  
+> **License:** © 2025 Wagner - Documentation protected by copyright  
+> **Usage:** Allowed with mandatory attribution to original author
+
 
 ---
 
@@ -2872,3 +2877,21 @@ Security Headers Added by NGINX:
 *   **Complete Automation** with scripts for backup, diagnosis, and expansion
 *   **Professional Documentation** for maintenance and growth
 *   **Total Scalability** to easily add new services
+
+## 📄 Document Credits
+
+This comprehensive guide was created by **Wagner** as part of the **SSL Centralized Infrastructure** project.
+
+- **📁 Source Code:** [GitHub Repository](https://github.com/wagnerdias10/ssl-centralizaed-infrastructure)
+- **📖 Documentation:** [GitHub Pages](https://wagnerdias10.github.io/ssl-centralizaed-infrastructure/)
+- **👤 Author:** [Wagner's GitHub Profile](https://github.com/wagnerdias10)
+
+### ⚖️ Usage Terms
+
+- ✅ **Allowed:** Personal and educational use with attribution
+- ✅ **Allowed:** Reference and citation with link to original source
+- ❌ **Prohibited:** Complete copy without attribution to author
+- ❌ **Prohibited:** Commercial use without express authorization
+- ❌ **Prohibited:** Redistribution as own work
+
+**© 2025 Wagner - All rights reserved | SSL Centralized Infrastructure Project**
